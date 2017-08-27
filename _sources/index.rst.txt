@@ -20,11 +20,11 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* Teaching Assistants - TBA
+* Teaching Assistants - Sreelekha Guggilam (sreelekh[at]buffalo.edu) 
 
 Meeting times and locations
 ----------------------------
-Tuesdays and Thursdays: 04.00 - 05.20 PM, `250 Bell Hall <https://www.google.com/maps/place/Bell+Hall/@43.0015276,-78.7870329,15z/data=!4m2!3m1!1s0x0:0x2970918a7d62e386?sa=X&ved=0ahUKEwiP9ZXJss_VAhVn8IMKHfx9Dw8Q_BIIbzAK>`_.
+Tuesdays: 10.00 AM - 01.00 PM, `250 Bell Hall <https://www.google.com/maps/place/Bell+Hall/@43.0015276,-78.7870329,15z/data=!4m2!3m1!1s0x0:0x2970918a7d62e386?sa=X&ved=0ahUKEwiP9ZXJss_VAhVn8IMKHfx9Dw8Q_BIIbzAK>`_.
 
 Prerequisites
 ---------------
