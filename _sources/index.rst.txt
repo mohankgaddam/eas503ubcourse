@@ -20,7 +20,7 @@ Instructors
 
 * `Varun Chandola <http://www.cse.buffalo.edu/~chandola>`_ (lead instructor; chandola[at]buffalo.edu)
 
-* Teaching Assistants - Sreelekha Guggilam (sreelekh[at]buffalo.edu) 
+* `Sreelekha Guggilam <http://www.buffalo.edu/directory/user/sreelekh?query=lam&affiliation=&qualifier=general&perpage=10&start=10>`_ (teaching assistant; sreelekh[at]buffalo.edu) 
 
 Meeting times and locations
 ----------------------------
