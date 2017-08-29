@@ -24,7 +24,9 @@ Instructors
 
 Meeting times and locations
 ----------------------------
-Tuesdays: 10.00 AM - 01.00 PM, `250 Bell Hall <https://www.google.com/maps/place/Bell+Hall/@43.0015276,-78.7870329,15z/data=!4m2!3m1!1s0x0:0x2970918a7d62e386?sa=X&ved=0ahUKEwiP9ZXJss_VAhVn8IMKHfx9Dw8Q_BIIbzAK>`_.
+* Tuesdays: 10.00 AM - 01.00 PM, `250 Bell Hall <https://www.google.com/maps/place/Bell+Hall/@43.0015276,-78.7870329,15z/data=!4m2!3m1!1s0x0:0x2970918a7d62e386?sa=X&ved=0ahUKEwiP9ZXJss_VAhVn8IMKHfx9Dw8Q_BIIbzAK>`_.
+    * Instructor Offic Hours: TBA
+  * TA Office Hours: Thursdays from 01.00 PM - 05.00 PM, 250 Bell Hall
 
 Prerequisites
 ---------------
@@ -32,6 +34,10 @@ None
 
 Course materials
 ----------------
+`Jupyter Notebooks <http://nbviewer.jupyter.org/github/ubdsgroup/eas503ubcourse/tree/master/notebooks/>`_
+
+Reference Texts
+---------------
 * Python Programming: An Introduction to Computer Science, Zelle [ISBN-10: 1590280288]
 * Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database Systems: The Complete Book
 
@@ -51,6 +57,9 @@ Class schedule
 ==== ============================================================================= ===========================================
 Week             Topic                                                              Homework assigned                    
 ==== ============================================================================= ===========================================
+* Introduction*
+------------------------------------------------------------------------------------------------------------------------------
+1    :download:`Course Introduction <CourseIntroduction.pdf>`                    
 *Programming Fundamentals*
 ------------------------------------------------------------------------------------------------------------------------------
 1    :download:`Programming Basics <Introduction.pptx>`                    
