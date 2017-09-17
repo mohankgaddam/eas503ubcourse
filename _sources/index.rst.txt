@@ -65,9 +65,9 @@ Week             Topic                                                          
 *Programming Fundamentals*
 ------------------------------------------------------------------------------------------------------------------------------
 1    :download:`Programming Basics <Introduction.pptx>`                    
-1    :download:`Data Types <DataTypes.pptx>`                    
-2    :download:`Collections <PythonLists.pdf>`                    
+2    :download:`Data Types <PythonDataTypes.pdf>`                    
 3    :download:`Control Structures <DecisionStructures.pdf>`
+4    :download:`Built-in Functions <BuiltinFunctions.pdf>`
 5    :download:`Classes <Classes.pptx>`                    
 6    :download:`Object Oriented Design <OOD.pptx>`
 7    :download:`Simulation and Design  <SimulationAndDesign.pptx>`
