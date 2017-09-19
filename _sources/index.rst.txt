@@ -68,7 +68,7 @@ Week             Topic                                                          
 2    :download:`Data Types <PythonDataTypes.pdf>`                    
 3    :download:`Control Structures <DecisionStructures.pdf>`
 4    :download:`Built-in Functions <BuiltinFunctions.pdf>`
-5    :download:`Classes <Classes.pptx>`                    
+5    :download:`Classes <Classes.pdf>`                    
 6    :download:`Object Oriented Design <OOD.pptx>`
 7    :download:`Simulation and Design  <SimulationAndDesign.pptx>`
 *Database Fundamentals*
