@@ -1,4 +1,4 @@
-#from newroutines import *
+#from newroutines import add 
 import newroutines as nr
 print(locals())
 a = 7
