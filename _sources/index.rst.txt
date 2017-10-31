@@ -66,18 +66,18 @@ Week             Topic                                                          
 ------------------------------------------------------------------------------------------------------------------------------
 1    :download:`Programming Basics <Introduction.pptx>`                    
 2    :download:`Data Types <PythonDataTypes.pdf>`                    
-3    :download:`Control Structures <DecisionStructures.pdf>`
+3    :download:`Control Structures <ControlStructures.pdf>`
 4    :download:`Built-in Functions <BuiltinFunctions.pdf>`
 5    :download:`Classes <Classes.pdf>`                    
 6    :download:`Object Oriented Design <OOD.pptx>`
 7    :download:`Simulation and Design  <SimulationAndDesign.pptx>`
 *Database Fundamentals*
 ------------------------------------------------------------------------------------------------------------------------------
-8    :download:`Relational Database Basics <BasicsOfDatabases.pptx>`
-9    :download:`Filtering, Grouping and Ordering <SQLBasics.pptx>`
-10   :download:`Joins in SQL <SQLJoins.pptx>`
+8    :download:`Relational Database Basics <DatabaseIntroduction.pdf>`
+9    :download:`Relational Algebra <RelationalAlgebra.ppt>`
+10   :download:`Using SQL <SQL.ppt>`
 11   :download:`Database Indexes <Indexes.pptx>`
-12   :download:`Creating and Manipulating Databases <ManipulatingDatabases.pptx>`
+12   :download:`Embedding SQL in Python <ManipulatingDatabases.pptx>`
 ==== ============================================================================= ===========================================
 
 How to submit homeworks
