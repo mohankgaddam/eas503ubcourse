@@ -69,15 +69,13 @@ Week             Topic                                                          
 3    :download:`Control Structures <ControlStructures.pdf>`
 4    :download:`Built-in Functions <BuiltinFunctions.pdf>`
 5    :download:`Classes <Classes.pdf>`                    
-6    :download:`Object Oriented Design <OOD.pptx>`
-7    :download:`Simulation and Design  <SimulationAndDesign.pptx>`
 *Database Fundamentals*
 ------------------------------------------------------------------------------------------------------------------------------
-8    :download:`Relational Database Basics <DatabaseIntroduction.pdf>`
-9    :download:`Relational Algebra <RelationalAlgebra.ppt>`
-10   :download:`Using SQL <SQL.ppt>`
-11   :download:`Database Indexes <Indexes.pptx>`
-12   :download:`Embedding SQL in Python <ManipulatingDatabases.pptx>`
+6    :download:`Relational Database Basics <DatabaseIntroduction.pdf>`
+7    :download:`Relational Algebra <RelationalAlgebra.ppt>`
+8   :download:`Using SQL <SQL.ppt>`
+9   :download:`Database Indexes <Index.ppt>`
+10   :download:`Embedding SQL in Python <PythonSQL.ppt>`
 ==== ============================================================================= ===========================================
 
 How to submit homeworks
